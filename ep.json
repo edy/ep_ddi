@@ -1,0 +1,10 @@
+{
+	"parts": [
+		{
+			"name": "ddi-plugin",
+			"hooks": {
+				"expressCreateServer": "ep_ddi/plugin:expressServer"
+			}
+		}
+	]
+}

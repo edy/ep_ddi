@@ -1,0 +1,6 @@
+{
+	"name": "ep_ddi",
+	"description": "Ein Beispiel-Plugin für http://ddiupbblogs.wordpress.com/",
+	"version": "0.0.1",
+	"author": "Eduard Baun <eduard@baun.de>"
+}
